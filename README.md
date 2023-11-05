@@ -96,7 +96,8 @@ Always Remember That The First Step Is To Push Power Button Of The CPU Than The 
 7. Install Motherboard Power Connections
 8. Connect External Cables To TheComputer
 9. Boot The Computer For The First Time.
-10. 
+
+    
 ## RESULT:
 
 Congratulations! You've successfully assembled a computer system. Remember to keep your workspace tidy, and take your time during each step to ensure everything is done correctly
